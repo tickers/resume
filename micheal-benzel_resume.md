@@ -32,7 +32,7 @@ IBM   -   2015 - 2018– Remote Only
 VMWare / Windows Administrator
 Sensus  -  December 2013 to 2015 - Remote / Onsite
 
-•	Design new customer infrastructure on VMware 5.5 environment running on CISCO UCS and Dell Servers with NetApp NFS storage solution in a 24/7 environment monitoring national electrical grid, water and gas. 
+•	Design new customer infrastructure on VMware 5.5 environment running on CISCO UCS and with NetApp NFS storage solution in a 24/7 environment monitoring national electrical grid, water and gas. 
 •	Upgrade existing systems to current industry standards while maintaining customer connectivity and automating updates and deployments. Monitor Linux and Windows system for alerts, patch updates and create weekly reporting on all environments in the US and Canada. 
 •	Test new systems in POC environment prior to release and recommend changes to engineering for further review. 
 •	Manage system wide Trend Deep Security Manager and apply new updates and changes as required. 
