@@ -10,9 +10,8 @@ Phone +1 (208) 440-6797
 Summary Senior Engineer with 10+ years' experience managing, developing and deploying cutting-edge technologies. 
 
 
-LinkedIn Profile -  https://www.linkedin.com/in/michealbenzelcloudservice/
-
-GitHub Resume - http://htmlpreview.github.io/?https://github.com/tickers/resume/blob/master/micheal-benzel_resume.html
+<p><a href="https://www.linkedin.com/in/michealbenzelcloudservice/">LinkedIn Profile </a></p>
+<p><a href="http://htmlpreview.github.io/?https://github.com/tickers/resume/blob/master/micheal-benzel_resume.html">GitHub Resume </a></p>
  
 
 **Experience** 
