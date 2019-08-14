@@ -7,10 +7,11 @@
 email tictoc@tictoc.us   
 Phone +1 (208) 440-6797
  
-*Summary Senior Engineer with 10+ years' experience managing, developing and deploying cutting-edge technologies.* 
+Summary Senior Engineer with 10+ years' experience managing, developing and deploying cutting-edge technologies. 
 
 
 LinkedIn Profile -  https://www.linkedin.com/in/michealbenzelcloudservice/
+GitHub Resume - https://github.com/tickers/resume/blob/master/micheal-benzel_resume.html
  
 
 **Experience** 
@@ -21,11 +22,11 @@ Cisco – 2018 – 2019 – Remote Only**
  *	Responsible for Federal Risk and Authorization Management Program (FedRAMP) compliance and global Inventory management for Federal Government authorized Cloud Service Provider (CSP) across two Federally facing teleconferencing-based network environments, Webex.com with monthly Government audits.
  *	FedRAMP / WebEX. Infrastructure vulnerability, POA&M remediation / compliance and general maintenance of Linux environments, VMware, RSA, Qualys, including customer requests and break-fix situations.
 * 	Created FedRAMP SSP-A13 Automated inventory reporting for Cloud Service Provider monitoring across 10,000+ devices using Device 42, SNMP, UCS Power Tools, SQL Scripts, Python, PowerCLI, PowerShell, 	Ansible and D42 Python tools. 
- *	Resolved vulnerabilities in the WebEx and FedRAMP environments, POA&M & NIST, using automated scripts created in Python, PowerShell, Bash. 
- *	Create scripts for the automation/deployment of Linux, CIMC, CMC, for Updates and Patches in Python/Ansible/PowerShell. 
- *	Review Qualys security logs and create Remedy Work Order’s and or Change Requests as needed.   
- *	Create JIRA Stories, Work Orders, WCR’s for change requests and work time tracking. Present at scrum meetings my current assigned WO within the current sprint.  
- *	Completed both Federal, State and Cisco required security and background checks for Federal Government Cloud Service Provider contracts as well as SSP-100 -300 Standards.  I have also equally completed a full ITAR for Cloud Service Provider compliance and background check for US Government contractors. 
+*	Resolved vulnerabilities in the WebEx and FedRAMP environments, POA&M & NIST, using automated scripts created in Python, PowerShell, Bash. 
+*	Create scripts for the automation/deployment of Linux, CIMC, CMC, for Updates and Patches in Python/Ansible/PowerShell. 
+*	Review Qualys security logs and create Remedy Work Order’s and or Change Requests as needed.   
+*	Create JIRA Stories, Work Orders, WCR’s for change requests and work time tracking. Present at scrum meetings my current assigned WO within the current sprint.  
+*	Completed both Federal, State and Cisco required security and background checks for Federal Government Cloud Service Provider contracts as well as SSP-100 -300 Standards.  I have also equally completed a full ITAR for Cloud Service Provider compliance and background check for US Government contractors. 
 
 **Senior Cloud Engineer 
 IBM   -   2015 - 2018– Remote Only**
